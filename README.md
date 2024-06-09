@@ -1,7 +1,7 @@
-### My_font
+# My_font
 a repo that save font made by myself
 
-##关于(about)
+## 关于(about)
 
 只是整着玩的
 </br>
@@ -11,6 +11,6 @@ just for fun
 </br>
 some fonts are not suitable for formal use
 
-##字体(fonts)
+## 字体(fonts)
 目前有一个
-#考试时想到的(WIP)
+### 考试时想到的(WIP)
