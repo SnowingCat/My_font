@@ -20,8 +20,10 @@ You can't sell the fonts
 You don't need authorization
 
 ## 字体(fonts)
-目前有两个
+目前有三个
 ### 考试时想到的(WIP)
 Basic Latin 已完成
 ### Spite(WIP)
 刚开工
+### Star Character(WIP)
+突然爆发的灵感，文件才刚创建
